@@ -8,6 +8,13 @@ Stay tuned for projects, might be uploading educational material in english and 
 - 🌱 Interested in AI safety, Algorithmic fairness, Human-centered AI in education and applications in Data Science
 ---
 ## 🛠️ Skills
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="R" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+</p>
 Mostly Python, R and SQL but have tried Javascript and the basics on the famous Harvard CS50 course
 - **Python**: pandas, numpy, polars, matplotlib, plotnine, statsmodels, plotly, scikit-learn, tensorflow, keras, pytorch, jupyter, streamlit, sqlalchemy, transformers, nltk
 - **R**: tidyverse, caret, forecast, lubridate, shiny, ggplot2, tidymodels, randomforest, torch, tidytext
