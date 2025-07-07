@@ -20,6 +20,7 @@ Mostly Python, R and SQL but have tried Javascript and the basics on the famous 
 - **JavaScript**: Google Charts, Plotly.js, Google Sheets API, Firebase
 
 I was trained on statistical analysis, from time series analysis to panel data. Having tried PCA, KNN, Random Forest and other ML applications in econometrics, environmental sciences and public health.
+
 ---
 ## 🎓 Education
 - BS in Economics [UCA, El Salvador]
