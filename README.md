@@ -18,6 +18,8 @@ Mostly Python, R and SQL but have tried Javascript and the basics on the famous 
 - **Python**: pandas, numpy, polars, matplotlib, plotnine, statsmodels, plotly, scikit-learn, tensorflow, keras, pytorch, jupyter, streamlit, sqlalchemy, transformers, nltk
 - **R**: tidyverse, caret, forecast, lubridate, shiny, ggplot2, tidymodels, randomforest, torch, tidytext
 - **JavaScript**: Google Charts, Plotly.js, Google Sheets API, Firebase
+
+I was trained on statistical analysis, from time series analysis to panel data. Having tried PCA, KNN, Random Forest and other ML applications in econometrics, environmental sciences and public health.
 ---
 ## 🎓 Education
 - BS in Economics [UCA, El Salvador]
