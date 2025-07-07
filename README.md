@@ -1,16 +1,20 @@
-## Hi there 👋
+# Miguel Arias here 👋
+📈 Interdisciplinary data enthusiast, specialist with experience in economic analysis, government policy, and applied social research. 
+- 🔭 Data-driven professional with a passion for using technology to create fairer societies. 
+- 🌱 Interested in AI safety, Algorithmic fairness, Human-centered AI in education and applications in Data Science
+---
+## 🛠️ Skills
+Mostly Python, R and SQL but have tried Javascript and the basics on the famous Harvard CS50 course
+- **Python**: pandas, numpy, polars, matplotlib, plotnine, statsmodels, plotly, scikit-learn, tensorflow, keras, pytorch, jupyter, streamlit, sqlalchemy, transformers, nltk
+- **R**: tidyverse, caret, forecast, lubridate, shiny, ggplot2, tidymodels, randomforest, torch, tidytext
+- **JavaScript**: Google Charts, Plotly.js, Google Sheets API, Firebase
+---
+## 🎓 Education
+- BS in Economics [UCA, El Salvador]
+- MS in Data Science [Immune Technology Institute, Spain; UMECIT, Panama]
 
-<!--
-**miguel-arias-sv/miguel-arias-sv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Contact
+- ✉️ Email: miguel.arias.datos@gmail.com
+- 🔗 [LinkedIn](https://linkedin.com/in/miguelgarias95)
