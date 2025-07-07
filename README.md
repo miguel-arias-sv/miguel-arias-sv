@@ -1,5 +1,4 @@
 # Miguel Arias here 👋
----
 - New profile – gradually uploading selected repositories. Stay tuned!
 
 📈 Interdisciplinary data enthusiast, specialist with experience in economic analysis, government policy, and applied social research. 
