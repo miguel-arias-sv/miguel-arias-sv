@@ -2,7 +2,7 @@
 📈 Interdisciplinary data enthusiast, specialist with experience in economic analysis, government policy, and applied social research. 
 
 🆕 **New GitHub profile – curating and uploading selected repositories.**  
-Stay tuned for projects, might be uploading educational material in english.
+Stay tuned for projects, might be uploading educational material in english and spanish.
 
 - 🔭 Data-driven professional with a passion for using technology to create fairer societies. 
 - 🌱 Interested in AI safety, Algorithmic fairness, Human-centered AI in education and applications in Data Science
