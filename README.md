@@ -31,6 +31,12 @@ I was trained on statistical analysis, from time series analysis to panel data. 
 - MA in Economics [University of Windsor, Ontario, Canada]
 
 ---
+## 🧑🏽‍💻 Certifications
+- Google Cloud Digital Leader [Expires: Dec 30, 2027]
+- Google Associate Cloud Engineer [Expires: Sep 17, 2029]
+
+---
+
 
 ## 📫 Contact
 - ✉️ Email: miguel.arias.data@gmail.com
