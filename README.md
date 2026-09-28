@@ -41,3 +41,4 @@ I was trained on statistical analysis, from time series analysis to panel data. 
 ## 📫 Contact
 - ✉️ Email: miguel.arias.data@gmail.com
 - 🔗 [LinkedIn](https://linkedin.com/in/miguelgarias95)
+- 🔗 [Credly](https://www.credly.com/users/miguel-geovanny-arias-rodas/badges/credly)
